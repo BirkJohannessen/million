@@ -6,6 +6,7 @@ public class mproject {
 		
 		// dette er en pissdårlig kode.. nei det er det ikke
 		//gjør noe med det.test
+		//mottatt
 		
 
 
@@ -13,5 +14,6 @@ public class mproject {
 		System.out.println(i);
 	    System.out.println("you stupid, dumb shit, god dammed, motherfucker!");
 	    System.out.println("donkey kong, every day lala");
+	    System.out.println("donkey kong, every day");
 }
 }
