@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author BirkJ
- *
- */
-module projectx {
-}
